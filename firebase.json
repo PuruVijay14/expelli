@@ -1,0 +1,12 @@
+{
+  "functions": {
+  },
+  "hosting": {
+    "public": "dist/expelli",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
